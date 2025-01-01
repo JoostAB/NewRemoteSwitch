@@ -1,6 +1,9 @@
 NewRemoteSwitch library v1.2.0 (20140128) for Arduino 1.0
 Made by Randy Simons http://randysimons.nl/
 
+_Reason for fork:_ Just to make sure it is availabe (since original is not 
+maintained actively anymore).
+
 This library provides an easy class for Arduino, to send and receive signals
 used by some common "new style" 433MHz remote control switches.
 
